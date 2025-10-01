@@ -1,0 +1,16 @@
+Flask
+flask-cors
+pandas
+numpy
+speechrecognition
+pyttsx3
+google-generativeai
+sentence-transformers
+faiss-cpu
+openpyxl
+langchain
+langchain_groq
+pyaudio
+schedule
+pydub
+pyserial
